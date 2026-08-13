@@ -1,0 +1,2 @@
+# polypump
+first crypto coin
